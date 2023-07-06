@@ -3,7 +3,7 @@ tmagv\tmagv.o: ..\TMAGV\inc\tmagv.h
 tmagv\tmagv.o: ../Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f4xx.h
 tmagv\tmagv.o: ../Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f401xc.h
 tmagv\tmagv.o: ../Drivers/CMSIS/Include/core_cm4.h
-tmagv\tmagv.o: C:\Keil_v5_ARM\ARM\ARMCC\Bin\..\include\stdint.h
+tmagv\tmagv.o: D:\Keil_v5_ARM\ARM\ARMCC\Bin\..\include\stdint.h
 tmagv\tmagv.o: ../Drivers/CMSIS/Include/cmsis_version.h
 tmagv\tmagv.o: ../Drivers/CMSIS/Include/cmsis_compiler.h
 tmagv\tmagv.o: ../Drivers/CMSIS/Include/cmsis_armcc.h
@@ -15,7 +15,7 @@ tmagv\tmagv.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc.h
 tmagv\tmagv.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_def.h
 tmagv\tmagv.o: ../Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f4xx.h
 tmagv\tmagv.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h
-tmagv\tmagv.o: C:\Keil_v5_ARM\ARM\ARMCC\Bin\..\include\stddef.h
+tmagv\tmagv.o: D:\Keil_v5_ARM\ARM\ARMCC\Bin\..\include\stddef.h
 tmagv\tmagv.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc_ex.h
 tmagv\tmagv.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_exti.h
 tmagv\tmagv.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_gpio.h
@@ -42,4 +42,4 @@ tmagv\tmagv.o: ..\TMAGV\inc\IICcom.h
 tmagv\tmagv.o: ..\TMAGV\inc\mpu6050.h
 tmagv\tmagv.o: ..\Hardware\MPU6050\inc\inv_mpu.h
 tmagv\tmagv.o: ..\Hardware\MPU6050\inc\inv_mpu_dmp_motion_driver.h
-tmagv\tmagv.o: C:\Keil_v5_ARM\ARM\ARMCC\Bin\..\include\stdio.h
+tmagv\tmagv.o: D:\Keil_v5_ARM\ARM\ARMCC\Bin\..\include\stdio.h

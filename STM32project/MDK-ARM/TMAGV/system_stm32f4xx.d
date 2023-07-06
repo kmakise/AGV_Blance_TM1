@@ -2,7 +2,7 @@ tmagv\system_stm32f4xx.o: ../Core/Src/system_stm32f4xx.c
 tmagv\system_stm32f4xx.o: ../Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f4xx.h
 tmagv\system_stm32f4xx.o: ../Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f401xc.h
 tmagv\system_stm32f4xx.o: ../Drivers/CMSIS/Include/core_cm4.h
-tmagv\system_stm32f4xx.o: C:\Keil_v5_ARM\ARM\ARMCC\Bin\..\include\stdint.h
+tmagv\system_stm32f4xx.o: D:\Keil_v5_ARM\ARM\ARMCC\Bin\..\include\stdint.h
 tmagv\system_stm32f4xx.o: ../Drivers/CMSIS/Include/cmsis_version.h
 tmagv\system_stm32f4xx.o: ../Drivers/CMSIS/Include/cmsis_compiler.h
 tmagv\system_stm32f4xx.o: ../Drivers/CMSIS/Include/cmsis_armcc.h
@@ -14,7 +14,7 @@ tmagv\system_stm32f4xx.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc.
 tmagv\system_stm32f4xx.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_def.h
 tmagv\system_stm32f4xx.o: ../Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f4xx.h
 tmagv\system_stm32f4xx.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h
-tmagv\system_stm32f4xx.o: C:\Keil_v5_ARM\ARM\ARMCC\Bin\..\include\stddef.h
+tmagv\system_stm32f4xx.o: D:\Keil_v5_ARM\ARM\ARMCC\Bin\..\include\stddef.h
 tmagv\system_stm32f4xx.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc_ex.h
 tmagv\system_stm32f4xx.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_exti.h
 tmagv\system_stm32f4xx.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_gpio.h

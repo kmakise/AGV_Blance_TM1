@@ -1,9 +1,9 @@
 tmagv\inv_mpu.o: ..\Hardware\MPU6050\src\inv_mpu.c
-tmagv\inv_mpu.o: C:\Keil_v5_ARM\ARM\ARMCC\Bin\..\include\stdio.h
-tmagv\inv_mpu.o: C:\Keil_v5_ARM\ARM\ARMCC\Bin\..\include\stdint.h
-tmagv\inv_mpu.o: C:\Keil_v5_ARM\ARM\ARMCC\Bin\..\include\stdlib.h
-tmagv\inv_mpu.o: C:\Keil_v5_ARM\ARM\ARMCC\Bin\..\include\string.h
-tmagv\inv_mpu.o: C:\Keil_v5_ARM\ARM\ARMCC\Bin\..\include\math.h
+tmagv\inv_mpu.o: D:\Keil_v5_ARM\ARM\ARMCC\Bin\..\include\stdio.h
+tmagv\inv_mpu.o: D:\Keil_v5_ARM\ARM\ARMCC\Bin\..\include\stdint.h
+tmagv\inv_mpu.o: D:\Keil_v5_ARM\ARM\ARMCC\Bin\..\include\stdlib.h
+tmagv\inv_mpu.o: D:\Keil_v5_ARM\ARM\ARMCC\Bin\..\include\string.h
+tmagv\inv_mpu.o: D:\Keil_v5_ARM\ARM\ARMCC\Bin\..\include\math.h
 tmagv\inv_mpu.o: ..\Hardware\MPU6050\inc\inv_mpu.h
 tmagv\inv_mpu.o: ../Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f4xx.h
 tmagv\inv_mpu.o: ../Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f401xc.h
@@ -19,7 +19,7 @@ tmagv\inv_mpu.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc.h
 tmagv\inv_mpu.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_def.h
 tmagv\inv_mpu.o: ../Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f4xx.h
 tmagv\inv_mpu.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h
-tmagv\inv_mpu.o: C:\Keil_v5_ARM\ARM\ARMCC\Bin\..\include\stddef.h
+tmagv\inv_mpu.o: D:\Keil_v5_ARM\ARM\ARMCC\Bin\..\include\stddef.h
 tmagv\inv_mpu.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc_ex.h
 tmagv\inv_mpu.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_exti.h
 tmagv\inv_mpu.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_gpio.h
